@@ -12,6 +12,6 @@
 🍟 I’m based in Liège, BE.
 ✈️ I love to travel and I lived half a year in Japan, はじめまして !
 
-<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="/premium-icon/linkedin_3536505?term=linkedin&page=1&position=2&page=1&position=2&related_id=3536505&origin=search" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/tim-jeanmart-29540020b/" target="blank"><img align="center" src="<a href="https://icons8.com/icon/13930/linkedin"></a>" alt="LinkedIn icon by Icons8" height="30" /></a>
 
 📧 I would love to work together! Send me an email to get in touch.
