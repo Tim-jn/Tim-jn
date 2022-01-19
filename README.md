@@ -1,6 +1,6 @@
 # Nice to meet you ! 👋
 
-🧑🏻‍🎓 I’m Tim, a freshly graduated front-end developer (application developer - JavaScript React) student from OpenClassrooms (february 2022). 
+🧑🏻‍🎓 I’m Tim, a freshly graduated front-end developer student from OpenClassrooms (february 2022). 
 
 🔧 Things I can do :
 
