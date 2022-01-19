@@ -10,6 +10,7 @@
 - Other skills : Sass, Jest, Recharts, Swagger
 
 🍟 I’m based in Liège, BE.
+
 ✈️ I love to travel and I lived half a year in Japan, はじめまして !
 
 <a href="https://www.linkedin.com/in/tim-jeanmart-29540020b" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn icon by Icons8" height="21" /> LinkedIn profile</a>
