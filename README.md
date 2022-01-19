@@ -1,16 +1,15 @@
-### Hi there 👋
+Nice to meet you ! 👋
 
-<!--
-**Tim-jn/Tim-jn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍🎓 I’m Tim, a freshly graduated front-end developer (application developer - JavaScript React) student from OpenClassrooms (february 2022). I always do my best to have clean and working code.
 
-Here are some ideas to get you started:
+🔧 Things I can do :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming languages : JavaScript
+Frameworks : React, Redux
+Languages : French, English, Japanese (some basics)
+Other skills : Sass, Jest, Recharts, Swagger
+
+🍟 I’m based in Liège, BE.
+✈️ I love to travel and I lived half a year in Japan, はじめまして !
+
+📧 I would love to work together! Send me an email to get in touch.
