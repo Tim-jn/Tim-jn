@@ -4,7 +4,7 @@
 
 🔧 Things I can do :
 
-- Programming languages : JavaScript
+- Programming languages : HTML, CSS, JavaScript
 - Frameworks : React, Redux
 - Languages : French, English, Japanese (some basics)
 - Other skills : Sass, Jest, Recharts, Swagger
