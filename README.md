@@ -4,10 +4,10 @@ Nice to meet you ! 👋
 
 🔧 Things I can do :
 
-Programming languages : JavaScript
-Frameworks : React, Redux
-Languages : French, English, Japanese (some basics)
-Other skills : Sass, Jest, Recharts, Swagger
+- Programming languages : JavaScript
+- Frameworks : React, Redux
+- Languages : French, English, Japanese (some basics)
+- Other skills : Sass, Jest, Recharts, Swagger
 
 🍟 I’m based in Liège, BE.
 ✈️ I love to travel and I lived half a year in Japan, はじめまして !
