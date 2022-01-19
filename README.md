@@ -1,4 +1,4 @@
-Nice to meet you ! 👋
+#Nice to meet you ! 👋
 
 🧑🏻‍🎓 I’m Tim, a freshly graduated front-end developer (application developer - JavaScript React) student from OpenClassrooms (february 2022). I always do my best to have clean and working code.
 
