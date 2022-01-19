@@ -12,4 +12,5 @@
 🍟 I’m based in Liège, BE.
 ✈️ I love to travel and I lived half a year in Japan, はじめまして !
 
+<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 📧 I would love to work together! Send me an email to get in touch.
