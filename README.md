@@ -14,4 +14,4 @@
 
 <a href="https://www.linkedin.com/in/tim-jeanmart-29540020b" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn icon by Icons8" height="21" /> LinkedIn profile</a>
 
-📧 I would love to work together! Send me an [email](tim.jeanmart@hotmail.com) to get in touch.
+📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
