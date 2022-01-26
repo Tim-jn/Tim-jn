@@ -16,3 +16,20 @@
 <a href="https://www.linkedin.com/in/tim-jeanmart-29540020b" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn icon by Icons8" height="21" /> LinkedIn profile</a>
 
 📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
+
+OpenClassrooms projects :
+
+HRNet : https://github.com/Tim-jn/TimothyJeanmart_14_07012022
+ArgentBank : https://github.com/Tim-jn/TimothyJeanmart_13_17122021
+SportSee : https://github.com/Tim-jn/TimothyJeanmart_12_29112021
+Kasa : https://github.com/Tim-jn/TimothyJeanmart_11_07112021
+Billed : https://github.com/Tim-jn/TimothyJeanmart_9_11102021
+Les Petits Plats : https://github.com/Tim-jn/TimothyJeanmart_7_24082021
+FishEye : https://github.com/Tim-jn/TimothyJeanmart_6_01072021
+GameOn : https://github.com/Tim-jn/TimothyJeanmart_4_01062021
+OhMyFood : https://github.com/Tim-jn/TimothyJeanmart_3_10052021
+Reservia : https://github.com/Tim-jn/TimothyJeanmart_2_16042021
+
+Udemy projects : 
+
+Twitch clone : https://github.com/Tim-jn/twitch-clone
