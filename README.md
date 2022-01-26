@@ -17,6 +17,9 @@
 
 📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
 
+
+If you want to take a look at my work :
+
 <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18" style="border-radius:20px"/> OpenClassrooms projects :
 
 - [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
