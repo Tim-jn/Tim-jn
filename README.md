@@ -19,17 +19,17 @@
 
 OpenClassrooms projects :
 
-- HRNet : https://github.com/Tim-jn/TimothyJeanmart_14_07012022
-- ArgentBank : https://github.com/Tim-jn/TimothyJeanmart_13_17122021
-- SportSee : https://github.com/Tim-jn/TimothyJeanmart_12_29112021
-- Kasa : https://github.com/Tim-jn/TimothyJeanmart_11_07112021
-- Billed : https://github.com/Tim-jn/TimothyJeanmart_9_11102021
-- Les Petits Plats : https://github.com/Tim-jn/TimothyJeanmart_7_24082021
-- FishEye : https://github.com/Tim-jn/TimothyJeanmart_6_01072021
-- GameOn : https://github.com/Tim-jn/TimothyJeanmart_4_01062021
-- OhMyFood : https://github.com/Tim-jn/TimothyJeanmart_3_10052021
-- Reservia : https://github.com/Tim-jn/TimothyJeanmart_2_16042021
+- [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
+- [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger)
+- [SportSee](https://github.com/Tim-jn/TimothyJeanmart_12_29112021) (React, Recharts)
+- [Kasa](https://github.com/Tim-jn/TimothyJeanmart_11_07112021) (React)
+- [Billed](https://github.com/Tim-jn/TimothyJeanmart_9_11102021) (JavaScript, Jest)
+- [Les Petits Plats](https://github.com/Tim-jn/TimothyJeanmart_7_24082021) (JavaScript, HTML5, CSS3, Sass)
+- [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021)(JavaScript, HTML5, CSS3, Sass)
+- [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
+- [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021)(JavaScript, HTML5, CSS3, Sass)
+- [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
 
 Udemy projects : 
 
-- Twitch clone : https://github.com/Tim-jn/twitch-clone
+- [Twitch clone](https://github.com/Tim-jn/twitch-clone) (React)
