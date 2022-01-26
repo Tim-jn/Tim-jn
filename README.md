@@ -25,9 +25,9 @@ OpenClassrooms projects :
 - [Kasa](https://github.com/Tim-jn/TimothyJeanmart_11_07112021) (React)
 - [Billed](https://github.com/Tim-jn/TimothyJeanmart_9_11102021) (JavaScript, Jest)
 - [Les Petits Plats](https://github.com/Tim-jn/TimothyJeanmart_7_24082021) (JavaScript, HTML5, CSS3, Sass)
-- [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021)(JavaScript, HTML5, CSS3, Sass)
+- [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021) (JavaScript, HTML5, CSS3, Sass)
 - [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
-- [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021)(JavaScript, HTML5, CSS3, Sass)
+- [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
 
 Udemy projects : 
