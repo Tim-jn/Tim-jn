@@ -17,6 +17,7 @@
 
 📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
 
+<hr style="border:2px solid gray"> </hr>
 
 If you want to take a look at my work :
 
