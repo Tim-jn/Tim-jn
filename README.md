@@ -17,7 +17,7 @@
 
 📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
 
-<img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="21" /> OpenClassrooms projects :
+<img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="21" /> OpenClassrooms projects :
 
 - [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
 - [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger)
@@ -30,6 +30,6 @@
 - [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
 
-Udemy projects : 
+<img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="21" /> Udemy projects : 
 
 - [Twitch clone](https://github.com/Tim-jn/twitch-clone) (React)
