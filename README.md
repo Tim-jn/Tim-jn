@@ -17,7 +17,7 @@
 
 📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
 
-OpenClassrooms projects :
+<img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="21" /> OpenClassrooms projects :
 
 - [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
 - [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger)
