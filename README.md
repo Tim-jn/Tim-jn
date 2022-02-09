@@ -32,7 +32,7 @@
 - [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
 
-<img align="center" src="https://api.iconify.design/simple-icons/frontendmentor.svg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/frontendmentor-logo.svg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
 
 <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
 
