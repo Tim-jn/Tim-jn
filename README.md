@@ -8,6 +8,7 @@
 - Libraries : React, Redux
 - Languages : French (native), English (B1/B2), Japanese (some basics)
 - Other skills : Sass, Jest, Recharts
+- Currently learning : TypeScript
 
 🍟 I’m based in Liège, BE.
 
