@@ -34,6 +34,7 @@
 
 <img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
 
+- [Fylo](https://timjn-fylo.netlify.app/) (React, TypeScript, Sass)
 - [Space Tourism](https://timjn-space-tourism.netlify.app) (React)
 - [To Do App](https://timjn-todoapp.netlify.app) (React)
 
