@@ -34,9 +34,9 @@
 
 <img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
 
-- [Fylo](https://timjn-fylo.netlify.app/) (React, TypeScript, Sass)
-- [Space Tourism](https://timjn-space-tourism.netlify.app) (React)
-- [To Do App](https://timjn-todoapp.netlify.app) (React)
+- [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
+- [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
+- [To Do App](https://github.com/Tim-jn/to-do-app) (React)
 
 <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
 
