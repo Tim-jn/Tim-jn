@@ -7,7 +7,7 @@
 - Programming languages : HTML, CSS, JavaScript, TypeScript
 - Libraries : React, Redux
 - Languages : French (native), English (B1/B2), Japanese (some basics)
-- Other skills : Sass, Jest, Recharts, React-router, Flex-box, ...
+- Other skills : WordPress, Sass, Jest, Recharts, React-router, Flex-box, ...
 
 🍟 I’m based in Liège, BE.
 
