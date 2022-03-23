@@ -21,7 +21,7 @@
 
 <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18" style="border-radius:20px"/> OpenClassrooms projects :
 
-- [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
+- [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React) [Jan 18, 2022]
 - [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger)
 - [SportSee](https://github.com/Tim-jn/TimothyJeanmart_12_29112021) (React, Recharts)
 - [Kasa](https://github.com/Tim-jn/TimothyJeanmart_11_07112021) (React)
