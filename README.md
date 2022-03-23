@@ -19,7 +19,7 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-<img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18" style="border-radius:20px"/> OpenClassrooms projects :
+<img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms projects :
 
 - [Jan, 2022] [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
 - [Jan, 2022] [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger)
@@ -32,7 +32,7 @@
 - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
 
-<img align="center" src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="WordPress Icon" height="18"/> WordPress projects :
+<img align="center" src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="WordPress Icon" height="21"/> WordPress projects :
 
 - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/)
 
