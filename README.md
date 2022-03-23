@@ -32,6 +32,10 @@
 - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
 
+<img align="center" src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="WordPress Icon" height="18"/> WordPress projects :
+
+- [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/)
+
 <img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
 
 - [Mar, 2022] [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
