@@ -42,6 +42,6 @@
 - [Feb, 2022] [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
 - [Feb, 2022] [To Do App](https://github.com/Tim-jn/to-do-app) (React)
 
-<img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
+<!-- <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
 
-- [Jan, 2022] [Twitch clone](https://github.com/Tim-jn/twitch-clone) (React)
+- [Jan, 2022] [Twitch clone](https://github.com/Tim-jn/twitch-clone) (React) -->
