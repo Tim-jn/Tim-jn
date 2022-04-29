@@ -20,7 +20,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 
-<img src="https://img.icons8.com/color/48/000000/project-management.png" alt="Tim Jeanmart Icon" height="18"/> My projects :
+💡 My projects :
 
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 
