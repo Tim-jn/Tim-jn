@@ -20,7 +20,7 @@
 <hr style="border:2px solid gray"> </hr>
 
 
-<img align="center" src=""C:\Users\Tim28\Desktop\Web dev\projets-persos\site-perso\site-perso\public\favicon.ico" alt="Tim Jeanmart Icon" height="18"/> Personal projects :
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-projects-resume-flaticons-lineal-color-flat-icons.png" alt="Tim Jeanmart Icon" height="18"/> My projects :
 
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 
