@@ -19,6 +19,9 @@
 
 <hr style="border:2px solid gray"> </hr>
 
+
+<img align="center" src=""C:\Users\Tim28\Desktop\Web dev\projets-persos\site-perso\site-perso\public\favicon.ico" alt="Tim Jeanmart Icon" height="18"/> Personal projects :
+
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 
 <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms projects :
