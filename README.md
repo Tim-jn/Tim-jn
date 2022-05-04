@@ -25,6 +25,12 @@
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
+<img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
+
+- [Mar, 2022] [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
+- [Feb, 2022] [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
+- [Feb, 2022] [To Do App](https://github.com/Tim-jn/to-do-app) (React)
+
 <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms projects :
 
 - [Jan, 2022] [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
@@ -37,13 +43,6 @@
 - [Jun, 2021] [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
 - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
-
-<img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
-
-- [Mar, 2022] [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
-- [Feb, 2022] [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
-- [Feb, 2022] [To Do App](https://github.com/Tim-jn/to-do-app) (React)
-
 <!-- <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
 
 - [Jan, 2022] [Twitch clone](https://github.com/Tim-jn/twitch-clone) (React) -->
