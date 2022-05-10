@@ -34,12 +34,12 @@
 <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms projects :
 
 - [Jan, 2022] [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
-- [Jan, 2022] [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger)
-- [Dec, 2021] [SportSee](https://github.com/Tim-jn/TimothyJeanmart_12_29112021) (React, Recharts)
+- [Jan, 2022] [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger, API)
+- [Dec, 2021] [SportSee](https://github.com/Tim-jn/TimothyJeanmart_12_29112021) (React, Recharts, API)
 - [Dec, 2021] [Kasa](https://github.com/Tim-jn/TimothyJeanmart_11_07112021) (React)
 - [Jan, 2022] [Billed](https://github.com/Tim-jn/TimothyJeanmart_9_11102021) (JavaScript, Jest)
 - [Oct, 2021] [Les Petits Plats](https://github.com/Tim-jn/TimothyJeanmart_7_24082021) (JavaScript, HTML5, CSS3, Sass)
-- [Aug, 2021] [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021) (JavaScript, HTML5, CSS3, Sass)
+- [Aug, 2021] [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021) (JavaScript, HTML5, CSS3, Sass, API)
 - [Jun, 2021] [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
 - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
