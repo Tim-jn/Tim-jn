@@ -1,6 +1,6 @@
 # Nice to meet you ! 👋
 
-🧑🏻‍🎓 I’m Tim, a front-end developer. 
+🧑🏻‍🎓 I’m Tim, a front-end developer specialized in React. 
 
 🔧 Things I can do :
 
