@@ -19,7 +19,7 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-The projects are listed in chronological order, so they show my evolution over time. If you want to see my current skills, I recommend looking at recent projects.
+➡️ The projects are listed in chronological order, so they show my evolution over time. If you want to see my current skills, I recommend looking at recent projects.
 
 💡 My projects :
 
