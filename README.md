@@ -26,7 +26,7 @@
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
-<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Full Stack JavaScript Developer Projects :
+<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Nanodegree Fullstack Javascript projects :
 
 - [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
 
@@ -37,7 +37,7 @@
 - [Feb, 2022] [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
 - [Feb, 2022] [To Do App](https://github.com/Tim-jn/to-do-app) (React)
 
-<img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms projects :
+<img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms Front-End Developer projects :
 
 - [Jan, 2022] [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
 - [Jan, 2022] [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger, API)
