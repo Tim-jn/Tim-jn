@@ -26,6 +26,10 @@
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
+<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Full Stack JavaScript Developer Projects :
+
+- [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
+
 <img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
 
 - [Mai, 2022] [Shortly](https://github.com/Tim-jn/Shortly) (React, TypeScript, Sass, API)
@@ -45,6 +49,7 @@
 - [Jun, 2021] [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
 - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
 - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
+
 <!-- <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
 
 - [Jan, 2022] [Twitch clone](https://github.com/Tim-jn/twitch-clone) (React) -->
