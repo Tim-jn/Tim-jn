@@ -29,7 +29,7 @@
 <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Nanodegree Fullstack Javascript projects :
 
 - [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
-- [In progress] [Storefront Backend](https://github.com/Tim-jn/store-front-backend) (NodeJS, Express, TypeScript, Jasmine, Postgresql)
+- [In progress] [Storefront Backend](https://github.com/Tim-jn/store-front-backend) (NodeJS, Express, TypeScript, Jasmine, PostgreSQL)
 
 <img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
 
