@@ -28,7 +28,7 @@
 
 <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Nanodegree Fullstack Javascript projects :
 
-- [In progress] [My Store](https://github.com/Tim-jn/my-store) (Angular)
+- [Aug, 2022] [My Store](https://github.com/Tim-jn/my-store) (Angular, TypeScript)
 - [Jul, 2022] [Storefront Backend](https://github.com/Tim-jn/store-front-backend) (NodeJS, Express, TypeScript, Jasmine, PostgreSQL)
 - [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
 
