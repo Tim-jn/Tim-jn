@@ -21,7 +21,7 @@
 
 ➡️ The projects are listed in chronological order, so they show my evolution over time. If you want to see my current skills, I recommend looking at recent projects.
 
-💡 My projects :
+💡 Professional projects :
 
 - [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
