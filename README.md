@@ -23,6 +23,7 @@
 
 💡 My projects :
 
+- [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)
 - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
 - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
