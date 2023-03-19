@@ -2,7 +2,7 @@
 
 🧑🏻‍🎓 I’m Tim, a front-end developer specialized in React. 
 
-🔧 Things I can do :
+🔧 Things I can do (Outdated) :
 
 - Programming languages : HTML, CSS, JavaScript, TypeScript
 - Libraries : React, Redux
