@@ -1,15 +1,6 @@
 # Nice to meet you ! 👋
 
-🧑🏻‍🎓 I’m Tim, a front-end developer specialized in React. 
-
-🔧 Things I can do (Outdated) :
-
-- Programming languages : HTML, CSS, JavaScript, TypeScript
-- Libraries : React, Redux
-- Languages : French (native), English (B1/B2), Japanese (some basics)
-- Other skills : WordPress, Sass, Jest, Recharts, React-router, Flex-box, ...
-
-🍟 I’m based in Liège, BE.
+I’m Tim, a Front-End developer specialized in React, and based in Liège (BE)
 
 ✈️ I love to travel and I lived half a year in Japan, はじめまして !
 
