@@ -12,14 +12,16 @@ I’m Tim, a web developer based in Liège (BE)
 
 ➡️ Career and Professional Work :
 
-<br/>
+<br>
+
    - [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)
    - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
    - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
 ➡️ Academic and Training Projects :
 
-<br/>
+<br>
+
   <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Nanodegree Fullstack Javascript projects :
     
    - [Aug, 2022] [My Store](https://github.com/Tim-jn/my-store) (Angular, TypeScript)
