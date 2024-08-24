@@ -13,7 +13,7 @@ I’m Tim, a web developer based in Liège (BE)
 ➡️ Career and Professional Work :
 
    - [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)
-   - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
+   - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass) <img width="18" height="18" src="https://img.icons8.com/color/48/maintenance.png" alt="maintenance"/> (under construction)
    - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
 <hr style="border:1px solid gray"> </hr>
