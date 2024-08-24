@@ -22,29 +22,29 @@ I’m Tim, a web developer based in Liège (BE)
 
   <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Nanodegree Fullstack Javascript projects :
     
-    - [Aug, 2022] [My Store](https://github.com/Tim-jn/my-store) (Angular, TypeScript)
-    - [Jul, 2022] [Storefront Backend](https://github.com/Tim-jn/store-front-backend) (NodeJS, Express, TypeScript, Jasmine, PostgreSQL)
-    - [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
+   - [Aug, 2022] [My Store](https://github.com/Tim-jn/my-store) (Angular, TypeScript)
+   - [Jul, 2022] [Storefront Backend](https://github.com/Tim-jn/store-front-backend) (NodeJS, Express, TypeScript, Jasmine, PostgreSQL)
+   - [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
     
-    <img align="center" src="https://cdn.brandfetch.io/frontendmentor.io/fallback/transparent/theme/dark/h/256/w/256/icon" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
+   <img align="center" src="https://cdn.brandfetch.io/frontendmentor.io/fallback/transparent/theme/dark/h/256/w/256/icon" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
     
-    - [Mai, 2022] [Shortly](https://github.com/Tim-jn/Shortly) (React, TypeScript, Sass, API)
-    - [Mar, 2022] [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
-    - [Feb, 2022] [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
-    - [Feb, 2022] [To Do App](https://github.com/Tim-jn/to-do-app) (React)
+   - [Mai, 2022] [Shortly](https://github.com/Tim-jn/Shortly) (React, TypeScript, Sass, API)
+   - [Mar, 2022] [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
+   - [Feb, 2022] [Space Tourism](https://github.com/Tim-jn/space-tourism) (React)
+   - [Feb, 2022] [To Do App](https://github.com/Tim-jn/to-do-app) (React)
     
-    <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms Front-End Developer projects :
+   <img align="center" src="https://www.jobirl.com/images/societe/1621324779.jpg" alt="OpenClassrooms Icon" height="18"/> OpenClassrooms Front-End Developer projects :
     
-    - [Jan, 2022] [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
-    - [Jan, 2022] [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger, API)
-    - [Dec, 2021] [SportSee](https://github.com/Tim-jn/TimothyJeanmart_12_29112021) (React, Recharts, API)
-    - [Dec, 2021] [Kasa](https://github.com/Tim-jn/TimothyJeanmart_11_07112021) (React)
-    - [Jan, 2022] [Billed](https://github.com/Tim-jn/TimothyJeanmart_9_11102021) (JavaScript, Jest)
-    - [Oct, 2021] [Les Petits Plats](https://github.com/Tim-jn/TimothyJeanmart_7_24082021) (JavaScript, HTML5, CSS3, Sass)
-    - [Aug, 2021] [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021) (JavaScript, HTML5, CSS3, Sass, API)
-    - [Jun, 2021] [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
-    - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
-    - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
+   - [Jan, 2022] [HRNet](https://github.com/Tim-jn/TimothyJeanmart_14_07012022) (React)
+   - [Jan, 2022] [ArgentBank](https://github.com/Tim-jn/TimothyJeanmart_13_17122021) (React, Redux, Swagger, API)
+   - [Dec, 2021] [SportSee](https://github.com/Tim-jn/TimothyJeanmart_12_29112021) (React, Recharts, API)
+   - [Dec, 2021] [Kasa](https://github.com/Tim-jn/TimothyJeanmart_11_07112021) (React)
+   - [Jan, 2022] [Billed](https://github.com/Tim-jn/TimothyJeanmart_9_11102021) (JavaScript, Jest)
+   - [Oct, 2021] [Les Petits Plats](https://github.com/Tim-jn/TimothyJeanmart_7_24082021) (JavaScript, HTML5, CSS3, Sass)
+   - [Aug, 2021] [FishEye](https://github.com/Tim-jn/TimothyJeanmart_6_01072021) (JavaScript, HTML5, CSS3, Sass, API)
+   - [Jun, 2021] [GameOn](https://github.com/Tim-jn/TimothyJeanmart_4_01062021) (JavaScript, HTML5, CSS3)
+   - [May, 2021] [OhMyFood](https://github.com/Tim-jn/TimothyJeanmart_3_10052021) (JavaScript, HTML5, CSS3, Sass)
+   - [May, 2021] [Reservia](https://github.com/Tim-jn/TimothyJeanmart_2_16042021) (HTML5, CSS3)
     
   <!-- <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-udemycom-is-an-online-learning-and-teaching-platform-logo-color-tal-revivo.png" alt="Udemy icon by Icons8" height="18" /> Udemy projects : 
   
