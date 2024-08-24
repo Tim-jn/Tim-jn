@@ -26,7 +26,7 @@ I’m Tim, a web developer based in Liège (BE)
   - [Jul, 2022] [Storefront Backend](https://github.com/Tim-jn/store-front-backend) (NodeJS, Express, TypeScript, Jasmine, PostgreSQL)
   - [Jun, 2022] [Image processing API](https://github.com/Tim-jn/image-processing-api) (NodeJS, Express, TypeScript, Jasmine)
   
-  <img align="center" src="https://nitter.net/pic/profile_images%2F1047378912819531776%2Fjg7V1u54.jpg" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
+  <img align="center" src="https://cdn.brandfetch.io/frontendmentor.io/fallback/transparent/theme/dark/h/256/w/256/icon" alt="Frontend Mentor Icon" height="18" /> Frontend Mentor Challenges : 
   
   - [Mai, 2022] [Shortly](https://github.com/Tim-jn/Shortly) (React, TypeScript, Sass, API)
   - [Mar, 2022] [Fylo](https://github.com/Tim-jn/Fylo) (React, TypeScript, Sass)
