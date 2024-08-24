@@ -8,21 +8,17 @@ I’m Tim, a web developer based in Liège (BE)
 
 📧 I would love to work together! Send me an [email](mailto:tim.jeanmart@hotmail.com) to get in touch.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:1px solid gray"> </hr>
 
 ➡️ Career and Professional Work :
-
-<hr style="border:1px solid gray"> </hr>
 
    - [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)
    - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass)
    - [Mar, 2022] [SRL Jeanmart Thierry](https://jeanmartth.be/) (WordPress)
 
-<br>
+<hr style="border:1px solid gray"> </hr>
 
 ➡️ Academic and Training Projects :
-
-<hr style="border:1px solid gray"> </hr>
 
   <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-udacity-a-for-profit-educational-organization-founded-by-offering-massive-open-online-courses-logo-shadow-tal-revivo.png" alt="Udacity Icon" height="18" /> Udacity Nanodegree Fullstack Javascript projects :
     
