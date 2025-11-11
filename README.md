@@ -14,7 +14,7 @@ I’m Tim, a web developer based in Liège (BE).
 
    - [Mar, 2023 -> Today] Silicon-Spirit (JS, Python, VueJS, jQuery, SQL, Bootstrap/SCSS)  
      *Working on Silicon ioi ERP*
-   - [Jan, 2023] [Alice J. - Videography](https://alicej-videography.com/) (React, SCSS)  
+   - [Jan, 2023] [Alice J. - Videography](https://alicej-videography.com/) (React, TypeScript, SCSS)  
      *Developed a simple responsive Portfolio using React*
    - [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)  
      *Developed a responsive portfolio using JAMStack architecture.*
