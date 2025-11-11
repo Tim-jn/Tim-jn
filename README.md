@@ -14,6 +14,8 @@ I’m Tim, a web developer based in Liège (BE).
 
    - [Mar, 2023 -> Today] Silicon-Spirit (JS, Python, VueJS, jQuery, SQL, Bootstrap/SCSS)  
      *Working on Silicon ioi ERP*
+   - [Jan, 2023] [Alice J. - Videography](https://alicej-videography.com/) (React, SCSS)  
+     *Developed a simple responsive Portfolio using React*
    - [Aug, 2022] [Rimarok](https://rimarok.com/) (React, TypeScript, JAMStack, Bootstrap/SCSS)  
      *Developed a responsive portfolio using JAMStack architecture.*
    - [Apr, 2022] [Portfolio](https://github.com/Tim-jn/site-perso) (React, TypeScript, Sass) <img width="18" height="18" src="https://img.icons8.com/color/48/maintenance.png" alt="maintenance"/> (under construction)
