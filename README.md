@@ -12,7 +12,7 @@ I’m Tim, a web developer based in Liège (BE).
 
 ## Career and Professional Work
 
-   - [Dec, 2025 -> Today] *Side Project* Soma (React native)  
+   - [Dec, 2025 -> Today] Soma (React native) **Side Project**
      *Developing a mobile application to connect healthcare professionals (primarily psychologists) with patients, featuring integrated video conferencing*
    - [Mar, 2023 -> Today] Silicon-Spirit (JS, Python, VueJS, jQuery, SQL, Bootstrap/SCSS)  
      *Working on Silicon ioi ERP*
